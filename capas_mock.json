@@ -1,0 +1,1332 @@
+[
+    {
+      "_id": "6415d2cc13f752f8d0b6c391",
+      "id": 0,
+      "name": "Unidades educativas locales",
+      "titulo": "Unidades educativas locales",
+      "categoria": "root",
+      "href": "escuelas",
+      "descripcion": "Identifican los niveles educativos y las modalidades de enseñanza, en las sedes, anexos y extensiones.",
+      "nodescrip": true,
+      "descarga": true,
+      "children": [
+        {
+          "id": 100,
+          "name": "Gestión estatal",
+          "titulo": "Gestión estatal",
+          "href": "publicas",
+          "nodescrip": true,
+          "descarga": true,
+          "descripcion": "\u003Cp class='texto-justificado'\u003EEstablecimientos administrados directamente por el Estado, nacional, provincial o municipal.\u003C/p\u003E",
+          "parametros": [
+            {
+              "id": 6,
+              "idcapa": 1,
+              "sector": 6,
+              "icono": "icon-question",
+              "name": "Nivel Inicial",
+              "filtro": true,
+              "titulo": "Nivel Inicial",
+              "capadescarga": "Nivel_Inicial_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "etiqueta": true,
+              "visible": false,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizado como unidad pedagógica; Jardines Maternales, desde los cuarenta y cinco (45) días a dos (2) años de edad inclusive; y Jardines de Infantes, de tres (3) a cinco (5) años de edad inclusive; los dos últimos años son obligatorios.\u003C/p\u003E"
+            },
+            {
+              "id": 7,
+              "idcapa": 2,
+              "sector": 6,
+              "icono": "icon-greater",
+              "name": "Nivel Primario",
+              "filtro": true,
+              "titulo": "Nivel Primario",
+              "capadescarga": "Nivel_Primario_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "etiqueta": true,
+              "visible": false,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EObligatorio, organizado como unidad pedagógica, de seis años de duración. Se ingresa a los seis (6) años de edad.\u003C/p\u003E"
+            },
+            {
+              "id": 8,
+              "idcapa": 3,
+              "sector": 6,
+              "icono": "icon-F",
+              "name": "Nivel Secundario",
+              "filtro": true,
+              "titulo": "Nivel Secundario",
+              "capadescarga": "Nivel_Secundario_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "etiqueta": true,
+              "visible": false,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EObligatorio, organizado como una unidad pedagógica, de seis años de duración. Podrán ingresar quienes hubieren cumplido con el Nivel Primario.\u003C/p\u003E"
+            },
+            {
+              "id": 9,
+              "idcapa": 4,
+              "sector": 6,
+              "icono": "icon-T",
+              "name": "Nivel Superior",
+              "filtro": true,
+              "titulo": "Nivel Superior",
+              "capadescarga": "Nivel_Superior_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "etiqueta": true,
+              "visible": false,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003E Prioritariamente orientado a la formación de docentes necesarios para el sistema educativo. Otorga títulos docentes y técnicos. Podrán ingresar quienes hubieren cumplido con el Nivel Secundario.\u003C/p\u003E"
+            },
+            {
+              "id": 10,
+              "idcapa": 5,
+              "sector": 6,
+              "icono": "icon-TPSec",
+              "name": "Modalidad Técnico Prof. Secundaria",
+              "filtro": true,
+              "titulo": "Modalidad Educación Técnico - Profesional Secundaria",
+              "capadescarga": "Mod_Tec_Prof_Secundaria_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003E Obligatoria, constituida por la Educación Técnica y la Educación Agraria. Podrán ingresar quienes hubieren cumplido con el Nivel primario.\u003C/p\u003E"
+            },
+            {
+              "id": 11,
+              "idcapa": 6,
+              "sector": 6,
+              "icono": "icon-TPSup",
+              "name": "Modalidad Técnico Prof. Superior",
+              "filtro": true,
+              "titulo": "Modalidad Educación Técnico - Profesional Superior",
+              "capadescarga": "Mod_Tec_Prof_Superior_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a la formación de técnicos y profesionales necesarios para el sistema educativo y de otras áreas del saber. Otorga títulos profesionales. Podrán ingresar quienes hubieren cumplido con el Nivel Secundario.\u003C/p\u003E"
+            },
+            {
+              "id": 12,
+              "idcapa": 7,
+              "sector": 6,
+              "icono": "icon-X_AP",
+              "name": "Modalidad Adultos Primaria",
+              "filtro": true,
+              "titulo": "Modalidad Adultos Primaria",
+              "capadescarga": "Modalidad_Adultos_Primaria_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizada en ciclos, tres años de duración, posibilita cumplir la obligatoriedad escolar del nivel primario.\u003C/p\u003E"
+            },
+            {
+              "id": 13,
+              "idcapa": 8,
+              "sector": 6,
+              "icono": "icon-X_AS",
+              "name": "Modalidad Adultos Secundaria",
+              "filtro": true,
+              "titulo": "Modalidad Adultos Secundaria",
+              "capadescarga": "Modalidad_Adultos_Secundaria_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizada en ciclos, tres años de duración, posibilita cumplir la obligatoriedad escolar del nivel secundario y la formación integral.\u003C/p\u003E"
+            },
+            {
+              "id": 14,
+              "idcapa": 9,
+              "sector": 6,
+              "icono": "icon-X_FP",
+              "name": "Modalidad Adultos F. Profesional",
+              "filtro": true,
+              "titulo": "Modalidad Formación Profesional",
+              "capadescarga": "Mod_Adultos_F_Profesional_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a preparar, actualizar, desarrollar o reconvertir capacidades de una persona para el ejercicio de una actividad o que puedan adaptarse a las exigencias de un puesto de trabajo en particular.\u003C/p\u003E"
+            },
+            {
+              "id": 15,
+              "idcapa": 10,
+              "sector": 6,
+              "icono": "icon-W_EI",
+              "name": "Modalidad Especial Inicial",
+              "filtro": true,
+              "titulo": "Modalidad Especial Inicial",
+              "capadescarga": "Modalidad_Especial_Inicial_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizada como unidad pedagógica y constituida por Educación Temprana, desde los 45 días hasta los tres (3) años de edad, aproximadamente, y Jardín de Infantes, a partir de los tres (3) años de edad hasta el ingreso al nivel primario.\u003C/p\u003E"
+            },
+            {
+              "id": 16,
+              "idcapa": 11,
+              "sector": 6,
+              "icono": "icon-W_EP",
+              "name": "Modalidad Especial Primaria",
+              "filtro": true,
+              "titulo": "Modalidad Especial Primaria",
+              "capadescarga": "Modalidad_Especial_Primaria_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EObligatoria, edad mínima de ingreso es seis años.\u003C/p\u003E"
+            },
+            {
+              "id": 17,
+              "idcapa": 12,
+              "sector": 6,
+              "icono": "icon-W_FI",
+              "name": "Modalidad Especial F. Integral",
+              "filtro": true,
+              "titulo": "Modalidad Especial Formación Integral",
+              "capadescarga": "Modalidad_Especial_F_Integral_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EPodrán ingresar quienes hubieren cumplido con el Nivel primario o tengan más de catorce (14) años de edad. Ofrece terminalidad del Nivel primario para quienes no lo concluyeron.\u003C/p\u003E"
+            },
+            {
+              "id": 18,
+              "idcapa": 13,
+              "sector": 6,
+              "icono": "icon-W_FL",
+              "name": "Modalidad Especial F. Laboral",
+              "filtro": true,
+              "titulo": "Modalidad Especial Formación Laboral",
+              "capadescarga": "Modalidad_Especial_F_Laboral_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EBrinda herramientas para la incorporación.\u003C/p\u003E"
+            },
+            {
+              "id": 19,
+              "idcapa": 14,
+              "sector": 6,
+              "icono": "icon-5_MA",
+              "name": "Modalidad Artística Cursos y talleres",
+              "filtro": true,
+              "titulo": "Modalidad Artística Cursos y talleres",
+              "capadescarga": "M_Artistica_Cursos_talleres_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EConstituida por los ciclos de formación artística con finalidad propedéuticas vinculados a un lenguaje artístico y una especialidad dentro del mismo.\u003C/p\u003E"
+            },
+            {
+              "id": 20,
+              "idcapa": 15,
+              "sector": 6,
+              "icono": "icon-EASec",
+              "name": "Modalidad Artística Secundaria",
+              "filtro": true,
+              "titulo": "Modalidad Artística Secundaria",
+              "capadescarga": "Modalidad_Artistica_Secundaria_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a la formación específica de Nivel Secundario y de lenguajes artísticos. Podrán ingresar quienes hubieren cumplido con el Nivel Primario.\u003C/p\u003E"
+            },
+            {
+              "id": 21,
+              "idcapa": 16,
+              "sector": 6,
+              "icono": "icon-EASup",
+              "name": "Modalidad Artística Superior",
+              "filtro": true,
+              "titulo": "Modalidad Artística Superior",
+              "capadescarga": "Modalidad_Artistica_Superior_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a la formación de docentes en los diversos lenguajes artísticos para los distintos niveles de enseñanza y las carreras artísticas específicas.\u003C/p\u003E"
+            },
+            {
+              "id": 22,
+              "idcapa": 17,
+              "sector": 6,
+              "icono": "icon-U_EF",
+              "name": "Modalidad Educación Física",
+              "filtro": true,
+              "titulo": "Modalidad Educación Física",
+              "capadescarga": "Modalidad_Educacion_Fisica_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EEn los centros de Educación Física se brinda una educación permanente orientada a la comunidad, a través de la actividad física, el juego y el deporte para la formación integral de los sujetos. Los CEF articulan con establecimientos educativos del distrito.\u003C/p\u003E"
+            },
+            {
+              "id": 23,
+              "idcapa": 18,
+              "sector": 6,
+              "icono": "icon-V_EC",
+              "name": "Mod. Psic. Comun. y Pedag. Social",
+              "filtro": true,
+              "titulo": "Modalidad Psicología Comunitaria y Pedagogía Social.",
+              "capadescarga": "M_Psic_Comun_y_Pedag_Soc_G_Estatal",
+              "gestion": "Gestión Estatal",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003E Los Centros de Educación Complementaria -CEC- se organizan en ciclos, con un abordaje especializado para fortalecer los aprendizajes.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "name": "Gestión privada",
+          "href": "privadas",
+          "descarga": true,
+          "titulo": "Gestión privada",
+          "descripcion": "\u003Cp class='texto-justificado'\u003EEstablecimientos administrados por instituciones o particulares.\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 24,
+              "idcapa": 1,
+              "sector": 5,
+              "icono": "icon-question_priv",
+              "name": "Nivel Inicial",
+              "filtro": true,
+              "titulo": "Nivel Inicial",
+              "capadescarga": "Nivel_Inicial_G_Privada",
+              "gestion": "Gestión Privada",
+              "visible": false,
+              "etiqueta": true,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizado como unidad pedagógica; Jardines Maternales, desde los cuarenta y cinco (45) días a dos (2) años de edad inclusive; y Jardines de Infantes, de tres (3) a cinco (5) años de edad inclusive; los dos últimos años son obligatorios.\u003C/p\u003E"
+            },
+            {
+              "id": 25,
+              "idcapa": 2,
+              "sector": 5,
+              "icono": "icon-greater_priv",
+              "name": "Nivel Primario",
+              "filtro": true,
+              "titulo": "Nivel Primario",
+              "capadescarga": "Nivel_Primario_G_Privada",
+              "gestion": "Gestión Privada",
+              "visible": false,
+              "etiqueta": true,
+              "descarga": true,
+              "descripcion": "Obligatorio, organizado como unidad pedagógica, de seis años de duración. Se ingresa a los seis (6) años de edad.\u003C/p\u003E"
+            },
+            {
+              "id": 26,
+              "idcapa": 3,
+              "sector": 5,
+              "icono": "icon-F_priv",
+              "name": "Nivel Secundario",
+              "filtro": true,
+              "titulo": "Nivel Secundario",
+              "capadescarga": "Nivel_Secundario_G_Privada",
+              "gestion": "Gestión Privada",
+              "visible": false,
+              "etiqueta": true,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EObligatorio, organizado como una unidad pedagógica, de seis años de duración. Podrán ingresar quienes hubieren cumplido con el Nivel Primario.\u003C/p\u003E"
+            },
+            {
+              "id": 27,
+              "idcapa": 4,
+              "sector": 5,
+              "icono": "icon-T_priv",
+              "name": "Nivel Superior",
+              "filtro": true,
+              "titulo": "Nivel Superior",
+              "capadescarga": "Nivel_Superior_G_Privada",
+              "gestion": "Gestión Privada",
+              "visible": false,
+              "etiqueta": true,
+              "descarga": true,
+              "descripcion": "Prioritariamente orientado a la formación de docentes necesarios para el sistema educativo. Otorga títulos docentes y técnicos. Podrán ingresar quienes hubieren cumplido con el Nivel Secundario.\u003C/p\u003E"
+            },
+            {
+              "id": 28,
+              "idcapa": 5,
+              "sector": 5,
+              "icono": "icon-TPSec_priv",
+              "name": "Modalidad Técnico Prof. Secundaria",
+              "filtro": true,
+              "titulo": "Modalidad Técnico Profesional Secundaria",
+              "capadescarga": "Mod_Tec_Prof_Secundaria_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003E Obligatoria, constituida por la Educación Técnica y la Educación Agraria. Podrán ingresar quienes hubieren cumplido con el Nivel primario.\u003C/p\u003E"
+            },
+            {
+              "id": 29,
+              "idcapa": 6,
+              "sector": 5,
+              "icono": "icon-TPSup_priv",
+              "name": "Modalidad Técnico Prof. Superior",
+              "filtro": true,
+              "titulo": "Modalidad Técnico Profesional Superior",
+              "capadescarga": "Mod_Tec_Prof_Superior_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a la formación de técnicos y profesionales necesarios para el sistema educativo y de otras áreas del saber. Otorga títulos profesionales. Podrán ingresar quienes hubieren cumplido con el Nivel Secundario.\u003C/p\u003E"
+            },
+            {
+              "id": 30,
+              "idcapa": 7,
+              "sector": 5,
+              "icono": "icon-X_AP_priv",
+              "name": "Modalidad Adultos Primaria",
+              "filtro": true,
+              "titulo": "Modalidad Adultos Primaria",
+              "capadescarga": "Modalidad_Adultos_Primaria_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizada en ciclos, tres años de duración, posibilita cumplir la obligatoriedad escolar del nivel primario.\u003C/p\u003E"
+            },
+            {
+              "id": 31,
+              "idcapa": 8,
+              "sector": 5,
+              "icono": "icon-X_AS_priv",
+              "name": "Modalidad Adultos Secundaria",
+              "filtro": true,
+              "titulo": "Modalidad Adultos Secundaria",
+              "capadescarga": "Modalidad_Adultos_Secundaria_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizada en ciclos, tres años de duración, posibilita cumplir la obligatoriedad escolar del nivel secundario y la formación integral.\u003C/p\u003E"
+            },
+            {
+              "id": 32,
+              "idcapa": 9,
+              "sector": 5,
+              "icono": "icon-X_FP_priv",
+              "name": "Modalidad Adultos F. Profesional",
+              "filtro": true,
+              "titulo": "Mod. Adultos Profesional Profesional",
+              "capadescarga": "Mod_Adultos_F_Profesional_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a preparar, actualizar, desarrollar o reconvertir capacidades de una persona para el ejercicio de una actividad o que puedan adaptarse a las exigencias de un puesto de trabajo en particular.\u003C/p\u003E"
+            },
+            {
+              "id": 33,
+              "idcapa": 10,
+              "sector": 5,
+              "icono": "icon-W_EI_priv",
+              "name": "Modalidad Especial Inicial",
+              "filtro": true,
+              "titulo": "Modalidad Especial Inicial",
+              "capadescarga": "Modalidad_Especial_Inicial_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrganizada como unidad pedagógica y constituida por Educación Temprana, desde los 45 días hasta los tres (3) años de edad, aproximadamente, y Jardín de Infantes, a partir de los tres (3) años de edad hasta el ingreso al nivel primario.\u003C/p\u003E"
+            },
+            {
+              "id": 34,
+              "idcapa": 11,
+              "sector": 5,
+              "icono": "icon-W_EP_priv",
+              "name": "Modalidad Especial Primaria",
+              "filtro": true,
+              "titulo": "Modalidad Especial Primaria",
+              "capadescarga": "Modalidad_Especial_Primaria_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EObligatoria, edad mínima de ingreso es seis años.\u003C/p\u003E"
+            },
+            {
+              "id": 35,
+              "idcapa": 12,
+              "sector": 5,
+              "icono": "icon-W_FI_priv",
+              "name": "Modalidad Especial F. Integral",
+              "filtro": true,
+              "titulo": "Modalidad Especial Formación Integral",
+              "capadescarga": "Modalidad_Especial_F_Integral_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EPodrán ingresar quienes hubieren cumplido con el Nivel primario o tengan más de catorce (14) años de edad. Ofrece terminalidad del Nivel primario para quienes no lo concluyeron.\u003C/p\u003E"
+            },
+            {
+              "id": 36,
+              "idcapa": 13,
+              "sector": 5,
+              "icono": "icon-W_FL_priv",
+              "name": "Modalidad Especial F. Laboral",
+              "filtro": true,
+              "titulo": "Modalidad Especial Formación Laboral",
+              "capadescarga": "Modalidad_Especial_F_Laboral_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EBrinda herramientas para la incorporación al mundo del trabajo.\u003C/p\u003E"
+            },
+            {
+              "id": 37,
+              "idcapa": 14,
+              "sector": 5,
+              "icono": "icon-5_MA_priv",
+              "name": "Modalidad Artística Cursos y talleres",
+              "filtro": true,
+              "titulo": "Modalidad Artística Cursos y talleres",
+              "capadescarga": "M_Artistica_Cursos_talleres_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EConstituida por los ciclos de formación artística con finalidad propedéuticas vinculados a un lenguaje artístico y una especialidad dentro del mismo.\u003C/p\u003E"
+            },
+            {
+              "id": 38,
+              "idcapa": 15,
+              "sector": 5,
+              "icono": "icon-EASec_priv",
+              "name": "Modalidad Artística Secundaria",
+              "filtro": true,
+              "titulo": "Modalidad Artística Secundaria",
+              "capadescarga": "Modalidad_Artistica_Secundaria_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a la formación específica de Nivel Secundario y de lenguajes artísticos. Podrán ingresar quienes hubieren cumplido con el Nivel Primario.\u003C/p\u003E"
+            },
+            {
+              "id": 39,
+              "idcapa": 16,
+              "sector": 5,
+              "icono": "icon-EASup_priv",
+              "name": "Modalidad Artística Superior",
+              "filtro": true,
+              "titulo": "Modalidad Artística Superior",
+              "capadescarga": "Modalidad_Artistica_Superior_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EOrientada a la formación de docentes en los diversos lenguajes artísticos para los distintos niveles de enseñanza y las carreras artísticas específicas.\u003C/p\u003E"
+            },
+            {
+              "id": 40,
+              "idcapa": 17,
+              "sector": 5,
+              "icono": "icon-U_EF_priv",
+              "name": "Modalidad Educación Física",
+              "filtro": true,
+              "titulo": "Modalidad Educación Física",
+              "capadescarga": "Modalidad_Educacion_Fisica_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EEn los centros de Educación Física se brinda una educación permanente orientada a la comunidad, a través de la actividad física, el juego y el deporte para la formación integral de los sujetos. Los CEF articulan con establecimientos educativos del distrito.\u003C/p\u003E"
+            },
+            {
+              "id": 41,
+              "idcapa": 18,
+              "sector": 5,
+              "icono": "icon-V_EC_priv",
+              "name": "Mod. Psic. Comun. y Pedag. Social",
+              "filtro": true,
+              "titulo": "Modalidad Psicología Comunitaria y Pedagogía Social",
+              "capadescarga": "M_Psic_Comun_y_Pedag_Soc_G_Privada",
+              "gestion": "Gestión Privada",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "Los Centros de Educación Complementaria -CEC- se organizan en ciclos, con un abordaje especializado para fortalecer los aprendizajes.\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true
+    },
+    {
+      "_id": "6415d32c13f752f8d0b6c392",
+      "id": 300,
+      "name": "Centros de capacitación, inf. e inv. educativa",
+      "titulo": "Centros de capacitación, información e investigación educativa",
+      "categoria": "root",
+      "href": "ciie",
+      "descripcion": "\u003Cp class='texto-justificado'\u003ECoordinan y desarrollan la oferta de formación docente continua en cada distrito. Ofrecen cursos de capacitación gratuitos, voluntarios y con puntaje para todos los niveles y modalidades. Se encargan de la administración de la biblioteca pedagógica distrital, el relevamiento de documentación y la sistematización de experiencias educativas y de investigación de cada región.\u003C/p\u003E",
+      "nodescrip": true,
+      "descarga": true,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "C. de capacitación, inf. e inv. educativa",
+          "href": "ciie",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ECoordinan y desarrollan la oferta de formación docente continua en cada distrito. Ofrecen cursos de capacitación gratuitos, voluntarios y con puntaje para todos los niveles y modalidades. Se encargan de la administración de la biblioteca pedagógica distrital, el relevamiento de documentación y la sistematización de experiencias educativas y de investigación de cada región.\u003C/p\u003E",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 42,
+              "icono": "icon-uniF007_ciie",
+              "name": "C. de capacitación, inf. e inv. educativa",
+              "titulo": "Centros de capacitación, información e investigación educativa (CIIE)",
+              "capadescarga": "ciie",
+              "descarga": true,
+              "visible": false,
+              "descripcion": "Responsables del desarrollo de ofertas de formación docente continua, articulando, relevando y sistematizando experiencias educativas e investigación\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true
+    },
+    {
+      "_id": "6415d3a013f752f8d0b6c393",
+      "id": 310,
+      "name": "Organismos descentralizados",
+      "titulo": "Organismos descentralizados",
+      "categoria": "root",
+      "href": "organismos",
+      "nodescrip": true,
+      "descarga": true,
+      "descripcion": "\u003Cp class='texto-justificado'\u003EOrganos de funcionamiento distrital o regional que dependen de direcciones centralizadas en la DGCyE\u003C/p\u003E",
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "Secretarías de asuntos docentes",
+          "titulo": "Secretarías de asuntos docentes",
+          "href": "secretaria",
+          "descripcion": "\u003Cp class='texto-justificado'\u003EResponsables de la conducción técnico-administrativa de los asuntos docentes\u003C/p\u003E",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 43,
+              "icono": "icon-uniF007_sad",
+              "name": "Secretarías de Asuntos Docentes",
+              "titulo": "Secretarías de Asuntos Docentes",
+              "capadescarga": "sad",
+              "descarga": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EResponsables de la conducción técnico-administrativa de los asuntos docentes\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Consejos escolares",
+          "href": "consejos",
+          "descripcion": "\u003Cp class='texto-justificado'\u003EResponsables de la administración los establecimientos educativos, con competencia territorial distrital, con exclusión de los aspectos técnico-pedagógicos\u003C/p\u003E",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 44,
+              "icono": "icon-uniF007_ce",
+              "name": "Consejos Escolares",
+              "titulo": "Consejos Escolares",
+              "capadescarga": "ce",
+              "descarga": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EResponsables de la administración de los establecimientos educativos, con competencia territorial distrital, con exclusión de los aspectos técnico-pedagógicos\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Jefaturas distritales estatales",
+          "href": "jefturae",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ESedes de los Inspectores Jefes Distritales, responsables de los Inspectores de Enseñanza de los establecimientos de gestión estatal.\u003C/p\u003E",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 45,
+              "icono": "icon-uniF1A8_jde",
+              "name": "Jefaturas Distritales Estatales",
+              "titulo": "Jefaturas Distritales Estatales",
+              "capadescarga": "jde",
+              "descarga": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ESedes de los Inspectores Jefes Distritales, responsables de los Inspectores de Enseñanza de los establecimientos de gestión estatal.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Jefaturas regionales estatales",
+          "href": "jeftrege",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ESedes de los Inspectores Jefes Regionales, responsables de los Inspectores Jefes Distritales de los establecimientos de gestión estatal.\u003C/p\u003E",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 46,
+              "icono": "icon-uniF1A8_jre",
+              "name": "Jefaturas Regionales Estatales",
+              "titulo": "Jefaturas Regionales Estatales",
+              "capadescarga": "jre",
+              "descarga": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ESedes de los Inspectores Jefes Regionales, responsables de los Inspectores Jefes Distritales de los establecimientos de gestión estatal.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Jefaturas regionales privadas",
+          "href": "jeftregp",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ESedes de los Inspectores Jefes Regionales, responsables de los Inspectores Jefes Distritales de los establecimientos de gestión privada.\u003C/p\u003E",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 47,
+              "icono": "icon-uniF1A8_jrp",
+              "name": "Jefaturas Regionales Privadas",
+              "titulo": "Jefaturas Regionales Privadas",
+              "capadescarga": "jrp",
+              "descarga": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ESedes de los Inspectores Jefes Regionales, responsables de los Inspectores Jefes Distritales de los establecimientos de gestión privada.\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true
+    },
+    {
+      "_id": "6415d3c213f752f8d0b6c394",
+      "id": 320,
+      "name": "Predios educativos",
+      "titulo": "Predios educativos",
+      "categoria": "root",
+      "href": "cue_cui",
+      "descripcion": "\u003Cp class='texto-justificado'\u003ESe denomina predio educativo al espacio físico en el cual se localizan la o las construcciones que conforman el edificio escolar. Puede estar constituido por parte de un lote, un lote o más de uno siempre que sean contiguos. Constituye una unidad en tanto es posible circular en su interior desde uno o más puntos de acceso y está limitado de otros predios (escolares o no) a través de barreras permanentes, paredes medianeras o cercos perimetrales. En cada predio puede funcionar uno o más establecimientos educativos. \u003Cbr\u003ELos predios educativos pueden clasificarse en escolares, cuando la actividad principal es la educativa, y predios no escolares, cuando allí funcionan establecimientos educativos, pero cuya principal actividad no es la escolar (hospitales, edificios de sindicatos, sociedades de fomento, edificios industriales, cárceles, entre otros).\u003Cbr\u003EEl predio se representa con un polígono geolocalizable identificado con un código (Código Único de Infraestructura: CUI).\u003C/p\u003E",
+      "nodescrip": true,
+      "descarga": true,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "Predios Educativos",
+          "titulo": "Predios Educativos",
+          "href": "cue_cui",
+          "descripcion": "Predios Educativos",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 5,
+              "icono": "icon-uniF23D",
+              "name": "Predios Educativos",
+              "titulo": "Predios Educativos",
+              "capadescarga": "cue_cui",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ESe denomina predio educativo al espacio físico en el cual se localizan la o las construcciones que conforman el edificio escolar. Puede estar constituido por parte de un lote, un lote o más de uno siempre que sean contiguos. Constituye una unidad en tanto es posible circular en su interior desde uno o más puntos de acceso y está limitado de otros predios (escolares o no) a través de barreras permanentes, paredes medianeras o cercos perimetrales. En cada predio puede funcionar uno o más establecimientos educativos. \u003Cbr\u003ELos predios educativos pueden clasificarse en escolares, cuando la actividad principal es la educativa, y predios no escolares, cuando allí funcionan establecimientos educativos, pero cuya principal actividad no es la escolar (hospitales, edificios de sindicatos, sociedades de fomento, edificios industriales, cárceles, entre otros).\u003Cbr\u003EEl predio se representa con un polígono geolocalizable identificado con un código (Código Único de Infraestructura: CUI).\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true
+    },
+    {
+      "_id": "64a4ac2fc237c5d1b0f3a103",
+      "id": 400,
+      "name": "Escuelas a la obra",
+      "titulo": "Escuelas a la obra",
+      "categoria": "root",
+      "href": "obras",
+      "descripcion": "\u003Cp class='texto-justificado'\u003ELas obras enmarcadas en este plan están destinadas a la refacción, ampliación y construcción de la infraestructura del sistema educativo mediante planes estratégicos integrados a las necesidades de las regiones o distritos, en un trabajo mancomunado con los municipios y los Consejos Escolares.\u003C/p\u003E",
+      "nodescrip": true,
+      "descarga": true,
+      "children": [
+        {
+          "id": 410,
+          "name": "Edificios nuevos finalizados",
+          "titulo": "Edificios nuevos finalizados",
+          "href": "obras",
+          "nodescrip": true,
+          "descarga": true,
+          "descripcion": "\u003Cp class='texto-justificado'\u003ESon las construcciones de edificios escolares nuevos en todos los niveles y modalidades, que han sido finalizadas. Comprende la ejecución de obras nuevas y la finalización de obras que estaban abandonadas o paralizadas. Algunas son destinadas a la sustitución de edificios de unidades de servicio ya existentes y otras a la creación de nuevos establecimientos (incluyendo las creaciones por reapertura y por independización de anexos o extensiones) o de unidades de servicio del tipo anexo o extensión.\u003C/p\u003E",
+          "parametros": [
+            {
+              "id": 48,
+              "idcapa": 1,
+              "sector": 6,
+              "icono": "icon-obra",
+              "name": "Edificios nuevos finalizados",
+              "filtro": false,
+              "titulo": "Edificios nuevos finalizados",
+              "capadescarga": "Edificios nuevos finalizados",
+              "etiqueta": false,
+              "visible": false,
+              "descarga": true,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ESon las construcciones de edificios escolares nuevos en todos los niveles y modalidades, que han sido finalizadas. Comprende la ejecución de obras nuevas y la finalización de obras que estaban abandonadas o paralizadas. Algunas son destinadas a la sustitución de edificios de unidades de servicio ya existentes y otras a la creación de nuevos establecimientos (incluyendo las creaciones por reapertura y por independización de anexos o extensiones) o de unidades de servicio del tipo anexo o extensión./p\u003E"
+            }
+          ],
+          "icon": "icon-obra",
+          "capadescarga": "Edificios nuevos finalizados"
+        }
+      ],
+      "publica": true,
+      "capadescarga": "Escuelas a la obra"
+    },
+    {
+      "_id": "64b5cc86b0a0e476d5fbfcbc",
+      "id": 600,
+      "name": "Políticas socioeducativas",
+      "titulo": "Políticas socioeducativas",
+      "categoria": "root",
+      "href": "politica",
+      "descripcion": "\u003Cp class='texto-justificado'\u003ELas políticas socioeducativas contribuyen a garantizar el derecho social a la educación, promoviendo la inclusión, igualdad y calidad educativa en los términos expresados en la Ley Nacional de Educación N° 26.206 y en la Ley Provincial de Educación N°13.688.\u003C/p\u003E",
+      "nodescrip": true,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "Coros y orquestas bonaerenses",
+          "titulo": "Coros y orquestas bonaerenses",
+          "href": "corosyorquestas",
+          "descripcion": "Coros y orquestas bonaerenses",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 49,
+              "icono": "icon-coros",
+              "name": "Coros y orquestas bonaerenses",
+              "titulo": "Coros y orquestas bonaerenses",
+              "capadescarga": "Coros y orquestas bonaerenses",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELos coros y las orquestas forman parte de un programa socioeducativo de educación musical destinado a niñas, niños, adolescentes y jóvenes que busca democratizar la cultura y tiene como propósito contribuir a garantizar el derecho social a la educación, fortaleciendo las trayectorias educativas, favoreciendo el ingreso, revinculación, permanencia con aprendizajes y egreso en el sistema educativo.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Clubes de ciencia",
+          "titulo": "Clubes de ciencia",
+          "href": "clubesdeciencia",
+          "descripcion": "Clubes de ciencia",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 50,
+              "icono": "icon-ciencia",
+              "name": "Clubes de ciencia",
+              "titulo": "Clubes de ciencia",
+              "capadescarga": "Clubes de ciencia",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EEspacios que tienen como propósito fortalecer las trayectorias educativas de niñas, niños, adolescentes y jóvenes, a través de propuestas de enseñanza y aprendizajes de las ciencias y la tecnología a través de proyectos que promueven la participación mediante diversos formatos de trabajo. Se encuentran en el marco del Programa de Actividades Científicas y Tecnológicas Educativas de la Dirección de Políticas Socioeducativas.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Patios abiertos en las escuelas",
+          "titulo": "Patios abiertos en las escuelas",
+          "href": "patiosabiertos",
+          "descripcion": "Patios abiertos en las escuelas",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 51,
+              "icono": "icon-patios",
+              "name": "Patios abiertos en las escuelas",
+              "titulo": "Patios abiertos en las escuelas",
+              "capadescarga": "Patios abiertos en las escuelas",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EPrograma socioeducativo que convoca a las infancias y juventudes entre los 4 y los 21 años a ser parte de un proyecto pedagógico y a través del mismo revincularse con la escuela. Promueve espacios de  enseñanza y aprendizajes, desarrollando actividades culturales, artísticas, científicas y deportivas, entre otras.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Centros socioeducativos y comunitarios",
+          "titulo": "Centros socioeducativos y comunitarios",
+          "href": "centrossocioeducativos",
+          "descripcion": "Centros socioeducativos y comunitarios",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 52,
+              "icono": "icon-socioedu",
+              "name": "Centros socioeducativos y comunitarios",
+              "titulo": "Centros socioeducativos y comunitarios",
+              "capadescarga": "Centros socioeducativos y comunitarios",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELos Centros Socioeducativos y Comunitarios tienen por objetivo la vinculación y revinculación educativa de niñas, niños, adolescentes y jóvenes de 4 a 21 años de edad que se encuentran desvinculadas/os y/o con trayectorias educativas vulnerables en el marco de proyecto pedagógico integral.\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true,
+      "descarga": true
+    },
+    {
+      "_id": "64d13e0485028eb283aee5fd",
+      "id": 700,
+      "name": "Expansión y consolidación del sistema educativo",
+      "titulo": "Expansión y consolidación del sistema educativo",
+      "categoria": "root",
+      "href": "ampliaciones",
+      "descripcion": "\u003Cp class='texto-justificado'\u003ELa expansión y consolidación del sistema educativo bonaerense en todos los niveles y\nmodalidades tiene lugar a través de diferentes acciones: creación de instituciones\neducativas y anexos o extensiones, independización de anexos o extensiones,\nreapertura de instituciones que fueron cerradas y estatización de escuelas privadas.\u003C/p\u003E",
+      "nodescrip": true,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "Creación de instituciones nuevas",
+          "titulo": "Creación de instituciones nuevas",
+          "href": "c_instituciones",
+          "descripcion": "\u003Cp class='texto-justificado'\u003EImplica crear un establecimiento educativo que comienza a funcionar por primera vez, sea en un edificio existente o en uno nuevo. Ningún desempeño docente (cargos, módulos u horas cátedra) de su Planta Orgánica Funcional (POF), proviene de otra institución existente. Las y los estudiantes, pueden ser matrícula nueva o provenir con pase de otra escuela.\u003C/p\u003E",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 53,
+              "icono": "icon-creacion_nueva",
+              "name": "Creación de instituciones nuevas",
+              "titulo": "Creación de instituciones nuevas",
+              "capadescarga": "Creación de instituciones nuevas",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EImplica crear un establecimiento educativo que comienza a funcionar por primera vez, sea en un edificio existente o en uno nuevo. Ningún desempeño docente (cargos, módulos u horas cátedra) de su Planta Orgánica Funcional (POF), proviene de otra institución existente. Las y los estudiantes, pueden ser matrícula nueva o provenir con pase de otra escuela.\u003C/p\u003E",
+              "filtro": "true"
+            }
+          ]
+        },
+        {
+          "name": "Creación de anexos o extensiones",
+          "titulo": "Creación de anexos o extensiones",
+          "href": "c_anexos",
+          "descripcion": "Es la creación de una unidad de servicio de tipo anexo o extensión, que depende de\nun establecimiento sede ya existente pero que funciona en otro lugar. Ningún\ndesempeño docente de su POF proviene de otra institución existente. Las y los\nestudiantes, pueden ser matrícula nueva o provenir con pase de otra escuela.",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 54,
+              "icono": "icon-creacion_anexo",
+              "name": "Creación de anexos o extensiones",
+              "titulo": "Creación de anexos o extensiones",
+              "capadescarga": "Creación de anexos o extensiones",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EEs la creación de una unidad de servicio de tipo anexo o extensión, que depende de un establecimiento sede ya existente pero que funciona en otro lugar. Ningún desempeño docente de su POF proviene de otra institución existente. Las y los \nestudiantes, pueden ser matrícula nueva o provenir con pase de otra escuela.\u003C/p\u003E",
+              "filtro": "true"
+            }
+          ]
+        },
+        {
+          "name": "Reapertura",
+          "titulo": "Reapertura",
+          "href": "reapertura",
+          "descripcion": "\u003Cp class='texto-justificado'\u003EImplica volver a poner en funcionamiento un establecimiento educativo que fue\ncerrado en otro momento. Se asignan nuevos desempeños docentes a su POF, o se\nrecuperan los de su funcionamiento anterior.\u003C/p\u003E",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 55,
+              "icono": "icon-reapertura",
+              "name": "Reapertura",
+              "titulo": "Reapertura",
+              "capadescarga": "Reapertura",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EImplica volver a poner en funcionamiento un establecimiento educativo que fue\ncerrado en otro momento. Se asignan nuevos desempeños docentes a su POF, o se\nrecuperan los de su funcionamiento anterior.\u003C/p\u003E",
+              "filtro": "true"
+            }
+          ]
+        },
+        {
+          "name": "Independización de anexos o extensiones",
+          "titulo": "Independización de anexos o extensiones",
+          "href": "independizacion",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ESupone crear un establecimiento educativo independiente a partir de un anexo o extensión o parte de una sede existente, dándole independencia pedagógica y administrativa de su anterior sede. Incluye en su nueva POF desempeños que provienen del anexo / extensión de origen. Generalmente las y los estudiantes provienen del anexo / extensión de origen. Cabe señalar que este proceso supone, por lo general, un incremento paulatino del tamaño y de la matrícula de la unidad de servicio desde que se constituyó como anexo o extensión hasta que se independiza.\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 56,
+              "icono": "icon-independizacion",
+              "name": "Independización de anexos o extensiones",
+              "titulo": "Independización de anexos o extensiones",
+              "capadescarga": "Independización de anexos o extensiones",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ESupone crear un establecimiento educativo independiente a partir de un anexo o extensión existente, dándole independencia pedagógica y administrativa de su anterior sede. Incluye en su nueva POF desempeños que provienen del anexo / extensión de origen. Generalmente las y los estudiantes provienen del anexo / extensión de origen. Cabe señalar que este proceso supone, por lo general, un incremento paulatino del tamaño y de la matrícula de la unidad de servicio desde que se constituyó como anexo o extensión hasta que se independiza.\u003C/p\u003E",
+              "filtro": "true"
+            }
+          ]
+        },
+        {
+          "name": "Estatización",
+          "titulo": "Estatización",
+          "href": "estatización",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ESupone crear un establecimiento educativo independiente a partir de un anexo o extensión o parte de una sede existente, dándole independencia pedagógica y administrativa de su anterior sede. Incluye en su nueva POF desempeños que provienen del anexo / extensión de origen. Generalmente las y los estudiantes provienen del anexo / extensión de origen. Cabe señalar que este proceso supone, por lo general, un incremento paulatino del tamaño y de la matrícula de la unidad de servicio desde que se constituyó como anexo o extensión hasta que se independiza.\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 57,
+              "icono": "icon-estatizacion",
+              "name": "Estatización",
+              "titulo": "Estatización",
+              "capadescarga": "Estatización",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EEs la transferencia al Estado provincial de un servicio educativo que pertenecía al ámbito de la Gestión Privada o dependía de una municipalidad. Toma el control y garantiza la continuidad. Las y los estudiantes y docentes provienen del establecimiento estatizado. En el caso de los establecimientos de dependencia privada, la estatización se produce cuando la administración anterior desiste de continuar con su gestión.\u003C/p\u003E",
+              "filtro": "true"
+            }
+          ]
+        }
+      ],
+      "publica": true,
+      "descarga": true
+    },
+    {
+      "_id": "65317ad65bb4748b0faed999",
+      "id": 720,
+      "name": "Ampliación de la jornada escolar",
+      "titulo": "Ampliación de la jornada escolar",
+      "categoria": "root",
+      "href": "jornada",
+      "descripcion": "\u003Cp class='texto-justificado'\u003EEl Programa \"Hacia la universalización de la jornada completa o extendida\" (Resolución 1765/22) en la Educación Primaria, del Ministerio de Educación de la Nación, tiene por objetivo impulsar las acciones necesarias para avanzar hacia la universalización de la jornada completa o extendida en las escuelas primarias de gestión estatal de todo el país.\n\u003Cbr\u003ELa Provincia de Buenos Aires (PBA) suscribió a dicho programa mediante la \u003Cb\u003EResolución 2502/2022\u003C/b\u003E de la Dirección General de Cultura y Educación (DGCyE). En este sentido, la PBA definió dos formatos de jornada escolar para la materialización de la ampliación de la jornada escolar: la \u003Cb\u003EJornada Completa de 40 horas semanales (Resolución 1133/2014)\u003C/b\u003E y la \u003Cb\u003EJornada de 25 horas semanales (Resolución 2502/2022)\u003C/b\u003E. \n\u003Cbr\u003EEn paralelo, la PBA creó el programa para la ampliación de la jornada escolar de a 25 horas semanales en Jardines de Infantes Rurales y de Islas de Matrícula Mínima y en los Jardines de infantes del ámbito rural (Resolución 2325/2023) con el objetivo de que los jardines que articulen con escuelas primarias puedan contar con la jornada escolar de 25 horas semanales también. \n\u003C/p\u003E",
+      "nodescrip": true,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "JC implementada ",
+          "titulo": "JJC implementada ",
+          "href": "jc_implementada",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada Completa (JC) en el marco de la Resolución 1133/2014.\u003C/p\u003E",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 58,
+              "icono": "icon-JC-Implementada",
+              "name": "JC implementada ",
+              "titulo": "JC implementada  ",
+              "capadescarga": "Implementó la Jornada Completa",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada Completa (JC) en el marco de la Resolución 1133/2014.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "J25h implementada",
+          "titulo": "J25h implementada",
+          "href": "reapertura",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2502/2022.\u003C/p\u003E",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 59,
+              "icono": "icon-J25H-Implementada",
+              "name": "J25h implementada",
+              "titulo": "J25h implementada",
+              "capadescarga": "J25h implementada (EP)",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2502/2022.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "J25h implementada. JC a implementar ",
+          "titulo": "J25h implementada. JC a implementar ",
+          "href": "J25h implementada. JC a implementar ",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2502/2022 e implementará la Jornada Completa (JC) en el marco de la Resolución 1133/2014.\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 60,
+              "icono": "icon-J25H-JC-desde-2024",
+              "name": "J25h implementada. JC a implementar ",
+              "titulo": "J25h implementada. JC a implementar ",
+              "capadescarga": "J25h implementada. JC a implementar ",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2502/2022 e implementará la Jornada Completa (JC) en el marco de la Resolución 1133/2014.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "JC a implementar",
+          "titulo": "JC a implementar",
+          "href": "JC a implementar",
+          "descripcion": "La escuela primaria implementará la Jornada Completa (JC) en el marco de la Resolución 1133/2014.",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 61,
+              "icono": "icon-JC-No-Implementada",
+              "name": "JC a implementar",
+              "titulo": "JC a implementar",
+              "capadescarga": "JC a implementa",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementará la Jornada Completa (JC) en el marco de la Resolución 1133/2014.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "J25h a implementar",
+          "titulo": "J25h a implementar",
+          "href": "J25h a implementar",
+          "descripcion": "\u003Cp class='texto-justificado'\u003E\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 62,
+              "icono": "icon-J25H-No-Implementada",
+              "name": "J25h a implementar",
+              "titulo": "J25h a implementar",
+              "capadescarga": "J25h a implementar",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementará la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2502/2022.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "J25h implementada (JI rurales)",
+          "titulo": "J25h implementada (JI rurales)",
+          "href": "J25h implementada (JI rurales)",
+          "descripcion": "\u003Cp class='texto-justificado'\u003EEl jardín implementó la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2325/2023.\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 63,
+              "icono": "icon-J25H-Implementada-Inicial",
+              "name": "J25h implementada (JI rurales)",
+              "titulo": "J25h implementada (JI rurales)",
+              "capadescarga": "J25h implementada (JI rurales)",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003EEl jardín implementó la Jornada de 25 horas semanales (J25h) en el marco de la Resolución 2325/2023.\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "J25h + JC Parcial implementada",
+          "titulo": "J25h + JC Parcial implementada",
+          "href": "J25h + JC Parcial implementada",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada de 25 horas semanales (J25h) en la mitad de sus secciones en el marco de la Resolución 2502/2022 e implementó la Jornada Completa (JC) en la otra mitad en el marco de la Resolución 1133/2014.\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 64,
+              "icono": "icon-J25h-JC-Parcial-implementada",
+              "name": "J25h + JC Parcial implementada",
+              "titulo": "J25h + JC Parcial implementada",
+              "capadescarga": "J25h + JC Parcial implementada",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELa escuela primaria implementó la Jornada de 25 horas semanales (J25h) en la mitad de sus secciones en el marco de la Resolución 2502/2022 e implementó la Jornada Completa (JC) en la otra mitad en el marco de la Resolución 1133/2014.\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true,
+      "descarga": true
+    },
+    {
+      "_id": "66c4903ae7ee31cce3862ddd",
+      "id": 730,
+      "name": "Comisión de la Verdad Histórica de la DGCyE",
+      "titulo": "Comisión de la Verdad Histórica de la DGCyE",
+      "categoria": "root",
+      "href": "comisionvh",
+      "descripcion": "\u003Cp class='texto-justificado'\u003ELa Comisión de la Verdad Histórica de la DGCyE, en “Víctimas del terrorismo de Estado”, señala como sitios de memoria, los lugares de trabajo y/o estudio de personas que fueron víctimas de detenciones ilegales seguidas de desaparición y/o ejecución, perseguidas, encarceladas y exiliadas, por causas políticas y gremiales, durante el período de vigencia del terrorismo de Estado (1974 – 1983).\u003Cbr\u003E\nEn “Bajas de trabajadores/as de la educación por persecución política y/o gremial entre 1976 y 1983”, se indican los establecimientos educativos y dependencias administrativas donde se desempeñaban docentes, administrativos/vas y auxiliares despedidos por causas políticas y/o gremiales en aplicación del decreto – ley 8596/76, y otros, ordenados por la intervención de la provincia de Buenos Aires, durante la última dictadura cívico-militar.\u003Cbr\u003E\nLa Comisión, creada por las resoluciones 299/2012 y 405/2015, está integrada por las organizaciones gremiales del ámbito educativo bonaerense, la Subsecretaría de Derechos Humanos, la Subsecretaría de Educación y la Comisión Provincial por la Memoria. Su misión es reparar la totalidad de los estados administrativos de estudiantes y trabajadores/as pertenecientes a la DGCyE que sufrieran detenciones ilegales, desapariciones, asesinatos y/o persecuciones entre 1974 y 1983. \u003Cbr\u003E\nDe este modo, también se da cumplimiento también a lo establecido por la ley provincial 15.204 que ordena el registro de trabajadoras/res y estudiantes víctimas del terrorismo de Estado, así como el señalamiento de las dependencias administrativas e instituciones escolares donde desempeñaban sus tareas.\n\u003C/p\u003E",
+      "nodescrip": true,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "Comisión de la Verdad Histórica",
+          "titulo": "Comisión de la Verdad Histórica",
+          "href": "comisionvh",
+          "descripcion": "\u003Cp class='texto-justificado'\u003ELa Comisión de la Verdad Histórica de la DGCyE, en “Víctimas del terrorismo de Estado”, señala como sitios de memoria, los lugares de trabajo y/o estudio de personas que fueron víctimas de detenciones ilegales seguidas de desaparición y/o ejecución, perseguidas, encarceladas y exiliadas, por causas políticas y gremiales, durante el período de vigencia del terrorismo de Estado (1974 – 1983).\u003Cbr\u003E\nEn “Bajas de trabajadores/as de la educación por persecución política y/o gremial entre 1976 y 1983”, se indican los establecimientos educativos y dependencias administrativas donde se desempeñaban docentes, administrativos/vas y auxiliares despedidos por causas políticas y/o gremiales en aplicación del decreto – ley 8596/76, y otros, ordenados por la intervención de la provincia de Buenos Aires, durante la última dictadura cívico-militar.\u003Cbr\u003E\nLa Comisión, creada por las resoluciones 299/2012 y 405/2015, está integrada por las organizaciones gremiales del ámbito educativo bonaerense, la Subsecretaría de Derechos Humanos, la Subsecretaría de Educación y la Comisión Provincial por la Memoria. Su misión es reparar la totalidad de los estados administrativos de estudiantes y trabajadores/as pertenecientes a la DGCyE que sufrieran detenciones ilegales, desapariciones, asesinatos y/o persecuciones entre 1974 y 1983. \u003Cbr\u003E\nDe este modo, también se da cumplimiento también a lo establecido por la ley provincial 15.204 que ordena el registro de trabajadoras/res y estudiantes víctimas del terrorismo de Estado, así como el señalamiento de las dependencias administrativas e instituciones escolares donde desempeñaban sus tareas.\n\u003C/p\u003E",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 65,
+              "icono": "icon-desaparecidos",
+              "name": "Víctimas del terrorismo de Estado",
+              "titulo": "Víctimas del terrorismo de Estado",
+              "capadescarga": "Víctimas del terrorismo de Estado",
+              "descarga": true,
+              "etiqueta": false,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELugares de trabajo y/o estudio de personas que fueron víctimas de detenciones ilegales seguidas de desaparición y/o ejecución, perseguidas, encarceladas y exiliadas, durante el período 1974 – 1983.\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true,
+      "descarga": true
+    },
+    {
+      "_id": "6415d3df13f752f8d0b6c395",
+      "id": 750,
+      "name": "Límites",
+      "titulo": "Límites",
+      "categoria": "root",
+      "href": "limites",
+      "descripcion": "\u003Cp class='texto-justificado'\u003EDescripción de la capa de limites de partidos y regiones\u003C/p\u003E",
+      "nodescrip": false,
+      "otrascapas": true,
+      "children": [
+        {
+          "name": "Distritos",
+          "titulo": "Distritos",
+          "href": "partidos",
+          "descripcion": "distritos",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 3,
+              "icono": "icon-uniF23B",
+              "name": "Distritos",
+              "titulo": "Distritos",
+              "capadescarga": "Distritos",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ELímites de los distritos de la Provincia de Buenos Aires\u003C/p\u003E"
+            }
+          ]
+        },
+        {
+          "name": "Regiones educativas",
+          "titulo": "Regiones educativas",
+          "href": "regiones",
+          "descripcion": "Región administrativa",
+          "otrascapas": true,
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 4,
+              "icono": "icon-uniF23A",
+              "name": "Regiones Educativas",
+              "titulo": "Regiones Educativas",
+              "capadescarga": "regiones",
+              "descarga": true,
+              "etiqueta": true,
+              "visible": false,
+              "descripcion": "\u003Cp class='texto-justificado'\u003ERegión administrativa definida por decisión de una autoridad en relación con la conducción, planeamiento y administración de la política educativa. Delimita unidades espaciales de acuerdo con un programa de acción. Actualmente existen en la provincia de Buenos Aires 25 regiones educativas.\u003C/p\u003E"
+            }
+          ]
+        }
+      ],
+      "publica": true
+    },
+    {
+      "_id": "6415d3ec13f752f8d0b6c396",
+      "id": 1000,
+      "name": "Capa base",
+      "titulo": "Capa base",
+      "categoria": "root",
+      "href": "capabase",
+      "descripcion": "",
+      "nodescrip": false,
+      "capabase": true,
+      "children": [
+        {
+          "name": "DGCyE",
+          "titulo": "Capa base DGCyE",
+          "href": "capabase",
+          "descripcion": "Agrupamiento de geoservicios WMS elaborados y geoprocesados por la Dirección de Información y Estadística (DIE - SSP - DGCyE) en base a diversas fuentes de datos abiertos de organismos oficiales. La capa “DGCyE” sintetiza componentes espaciales referidos a límites políticos administrativos, red vial jerarquizada, red hidrológica, toponimia de la Provincia de Buenos Aires, entre otros.",
+          "nodescrip": true,
+          "parametros": [
+            {
+              "id": 0,
+              "name": "DGCyE",
+              "titulo": "Capa base DGCyE",
+              "capabase": true,
+              "checked": true,
+              "visible": true,
+              "descripcion": "Agrupamiento de geoservicios WMS elaborados y geoprocesados por la Dirección de Información y Estadística (DIE - SSP - DGCyE) en base a diversas fuentes de datos abiertos de organismos oficiales. La capa “DGCyE” sintetiza componentes espaciales referidos a límites políticos administrativos, red vial jerarquizada, red hidrológica, toponimia de la Provincia de Buenos Aires, entre otros."
+            }
+          ]
+        },
+        {
+          "name": "Argenmap",
+          "titulo": "Argenmap",
+          "href": "capabase",
+          "descripcion": "",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 1,
+              "name": "Argenmap",
+              "titulo": "Argenmap",
+              "capabase": true,
+              "checked": false,
+              "visible": false,
+              "descripcion": ""
+            }
+          ]
+        },
+        {
+          "name": "OSM",
+          "titulo": "OSM",
+          "href": "capabase",
+          "descripcion": "",
+          "nodescrip": false,
+          "parametros": [
+            {
+              "id": 2,
+              "name": "OSM",
+              "titulo": "OSM",
+              "capabase": true,
+              "checked": false,
+              "visible": false,
+              "descripcion": ""
+            }
+          ]
+        }
+      ],
+      "publica": true
+    }
+  ]
