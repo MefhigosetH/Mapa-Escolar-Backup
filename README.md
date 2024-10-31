@@ -9,3 +9,17 @@ Este repositorio contiene código Python capaz de realizar una copia de resguard
 
 ## Análisis con Google Chrome DevTools
 ![Alt text](./res/mapa-educativo.jpg "Mapa Educativo con DevTools")
+
+## Instalacion
+Para instalar las dependencias necesarias para ejecutar el script, utilizar el siguiente comando:
+
+```bash
+> pipenv install
+```
+
+## Ejecución del programa
+Para ejecutar el programa:
+
+```bash
+> pipenv run python backup-mapa.py
+```
